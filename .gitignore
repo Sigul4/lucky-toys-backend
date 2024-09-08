@@ -1,0 +1,39 @@
+# Node.js dependencies
+/node_modules
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Jest coverage
+coverage/
+
+# Production build
+/build
+
+# Docker
+.DS_Store
+docker-compose.override.yml
+.DS_Store
+
+# Others
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
